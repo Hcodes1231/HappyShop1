@@ -22,7 +22,7 @@ public class Launcher  {
         Application.launch(Main.class, args);  // Starts the JavaFX application through Main
     }
 }
-
+// comment
 // In newer Java versions (e.g., JDK 25),
 // the entry point no longer requires the class or main method to be 'public'.
 // It is kept here to follow the standard Java structure and ensure compatibility with older JDKs.
